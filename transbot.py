@@ -38,4 +38,4 @@ async def on_message(message):
         print("投稿者：", message.author)
         print("メッセージ：", message.content)
 
-client.run("NDA2MzYxMzA2MjUwMzQ2NDk3.DUzHiA.uF3hzscZW6CN9vx1w1I5xUeMNGo")
+client.run("YOURTOKEN")
